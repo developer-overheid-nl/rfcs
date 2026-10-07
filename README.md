@@ -12,6 +12,7 @@ pull request, en hernoem het bestand naar het nummer van die pull request.
 | RFC | Titel | Status | Geïmplementeerd |
 | --- | --- | --- | --- |
 | [0000](text/0000-rfc-proces.md) | Het RFC-proces | Draft | Deels |
+| [0001](text/0001-vakwerk.md) | Vakwerk: het verspreiden van agent-skills | Proposed | Nee |
 
 ## Reageren
 
